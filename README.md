@@ -6,3 +6,4 @@
 4. Approach to create a ElastiCache Subnet Groups.
 5. Create a ec2 server for Mangodb installation.
 6. Create an ElastiCache Cluster resource, which manages Redis instance.
+7. Approach to use mongodbatlas to deploy redis and mongodb.
