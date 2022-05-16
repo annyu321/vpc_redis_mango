@@ -1,0 +1,12 @@
+config:
+  aws:region: ca-central-1
+  awsconfig:tags: Ann Yu
+  awsconfig:tags.Author: Ann
+  awsconfig:tags.Feature: redisMangoDB
+  awsconfig:tags.Stage: test
+  awsconfig:tags.Team: dev
+  awsconfig:tags.Version: "1.0"
+  redisMango:AWS_ACCESS_KEY_ID: AKIAUYDDIHH5CRFVYDXL
+  redisMango:Tags: stage test
+  redisMango:aws_secret_access_key:
+    secure: AAABAD8Yy8f69LEMZxQsa77hB56RNXb7aiE6vaZ8WwUSCNfidNhPpbfjqs26uq6xoez9eNPbHv9OvutiVuUxrvSXX3T1knss

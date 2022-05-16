@@ -1,0 +1,3 @@
+name: redisMango
+runtime: go
+description: Deploy redis and mongodb in a separate VPC with no internet connectivity
